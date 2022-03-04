@@ -84,5 +84,10 @@ All the images and annotations in SVLD-3D are available at Google Drive.
 
 ## Citation
 ```
-bibtex
+@article{tang2022CenterLoc3D,
+  title={CenterLoc3D: Monocular 3D Vehicle Localization Network for Roadside Surveillance Cameras},
+  author={Tang, Xinyao and Song, Huansheng and Wang, Wei and Zhao, Chunhui},
+  journal={arXiv preprint arXiv:********},
+  year={2022}
+}
 ```
